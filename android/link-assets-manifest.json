@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Comfortaa-Bold.ttf",
+      "sha1": "25e88ec1e196a5c4b2bb90d1d4ec268a41fbcd87"
+    },
+    {
+      "path": "assets/fonts/Comfortaa-Light.ttf",
+      "sha1": "4566d459726b8bceffef8cf76dee59793056868d"
+    },
+    {
+      "path": "assets/fonts/Comfortaa-Medium.ttf",
+      "sha1": "0c568be4e4d75eaffb867e12b7b61b9d2f1cfb11"
+    },
+    {
+      "path": "assets/fonts/Comfortaa-Regular.ttf",
+      "sha1": "aa49d19d98f9a97d64c30eef325a5173359dcdd2"
+    },
+    {
+      "path": "assets/fonts/Comfortaa-SemiBold.ttf",
+      "sha1": "80628ca8ab68d1c06b822cd94367c079f23cbf6c"
+    },
+    {
+      "path": "assets/icons/filterIcon.svg",
+      "sha1": "311611911433b84b454a9319027f6bb30a2f37cd"
+    }
+  ]
+}
